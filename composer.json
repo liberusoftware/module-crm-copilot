@@ -1,1 +1,5 @@
-{"name":"liberusoftware/module-crm-copilot","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\Copilot\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\Copilot\\CopilotServiceProvider"]},"liberu":{"name":"crm-copilot"}}}
+{"name":"liberusoftware/module-crm-copilot","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\Copilot\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\Copilot\\CopilotServiceProvider"]},"liberu":{"name":"crm-copilot"}},
+    "require": {
+        "liberusoftware/module-organizations-teams": "^1.0"
+    }
+}
