@@ -2,7 +2,7 @@
   "name": "crm-copilot",
   "display_name": "CRM Copilot",
   "description": "Permission-bounded CRM assistance through an automation gateway",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "capability",
   "provider": "Liberu\\CRM\\Copilot\\CopilotServiceProvider",
   "requires": {
